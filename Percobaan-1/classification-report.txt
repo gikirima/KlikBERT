@@ -1,0 +1,32 @@
+✅ Classification Report:
+               precision    recall  f1-score   support
+
+ exaggeration       0.67      0.63      0.65       150
+   misleading       0.84      0.86      0.85       146
+non clickbait       0.83      0.75      0.79       161
+      teasing       0.69      0.78      0.73       161
+
+     accuracy                           0.75       618
+    macro avg       0.76      0.75      0.75       618
+ weighted avg       0.76      0.75      0.75       618
+
+               precision    recall  f1-score   support
+
+       bisnis       0.86      0.89      0.87        61
+entertainment       0.88      0.88      0.88       122
+    kesehatan       0.82      0.85      0.83        62
+     kriminal       0.76      0.71      0.73        52
+    lifestyle       0.80      0.82      0.81       109
+   lingkungan       0.88      0.88      0.88        33
+      politik       0.82      0.90      0.86        92
+        sport       1.00      0.92      0.96        61
+    teknologi       0.78      0.54      0.64        26
+
+     accuracy                           0.84       618
+    macro avg       0.84      0.82      0.83       618
+ weighted avg       0.85      0.84      0.84       618
+
+📌 [Kategori]
+Accuracy: 0.8446601941747572
+📌 [Clickbait]
+Accuracy: 0.7540453074433657
